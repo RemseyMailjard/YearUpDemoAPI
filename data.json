@@ -1,0 +1,211 @@
+[
+    {
+        "ID": 1,
+        "Name": "Brett Spokes",
+        "Email": "bspokes@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/BrettSpokes",
+        "CodingNickname": "Any Key",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D4E03AQHsvMOXofd4eg/profile-displayphoto-shrink_400_400/0/1701278215042?e=1722470400&v=beta&t=KVN23alt6xjixB3xlCNum6j26X4VRMmvCh6FdlsAFtM",
+        "XP": 0,
+        "currentlyWorkingOn": 81
+    },
+    {
+        "ID": 2,
+        "Name": "Alfi Ali",
+        "Email": "asamatar@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/ALFI-ALI",
+        "CodingNickname": "luffy",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/C4E03AQEoG-gPExm-cw/profile-displayphoto-shrink_400_400/0/1636537401196?e=1722470400&v=beta&t=oWyYB2HE-iAtcSCylDAeUmEvZY0nEeqGI6Na1fQT6d8",
+        "XP": 0,
+        "currentlyWorkingOn": 44
+    },
+    {
+        "ID": 3,
+        "Name": "Dante 'Donny' Angerame",
+        "Email": "dangerame@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/DanteAngerame",
+        "CodingNickname": "The Woodchuck",
+        "Groupname": "App Dev Team",
+        "imageURL": "img/Avatar_Student_Male.jpg",
+        "XP": 0,
+        "currentlyWorkingOn": 32
+    },
+    {
+        "ID": 4,
+        "Name": "Guadalupe Argumedo Saucedo",
+        "Email": "gargumedosaucedo@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/GuadalupeArgumedoSaucedo",
+        "CodingNickname": "CodeLupe",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://fakeimg.pl/600x400/7b37c4/fff700?text=Lupe+Argumedo&font=bebas",
+        "XP": 0,
+        "currentlyWorkingOn": 39
+    },
+    {
+        "ID": 5,
+        "Name": "Jaranesca Braker",
+        "Email": "jbraker@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/jaranesca",
+        "CodingNickname": "JSJ (JavaScript Jaranesca)",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://fakeimg.pl/600x400/ffe44c/db29db?text=Jaranesca+Braker",
+        "XP": 0,
+        "currentlyWorkingOn": 37
+    },
+    {
+        "ID": 6,
+        "Name": "Jesús Mimila",
+        "Email": "jmimila@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/JesusMimilaHurtado",
+        "CodingNickname": "JJ",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D4E03AQFN9jSMTdbzDA/profile-displayphoto-shrink_400_400/0/1715103915979?e=1720656000&v=beta&t=5QnIvkUZJ9RX9KlBJbEPdKgv95eNmlrGAiDgvYd9k8A",
+        "XP": 30,
+        "currentlyWorkingOn": 31
+    },
+    {
+        "ID": 7,
+        "Name": "Kaaliyah Gray (Mac)",
+        "Email": "kgray@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/KaaliyahGray",
+        "CodingNickname": "leetheMrE",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D5603AQEJtVL8lJLJpw/profile-displayphoto-shrink_400_400/0/1711738921148?e=1720656000&v=beta&t=VbkGPpHEA5sBDc8C96HVHrmvtBEJdt5TWW2bV-zuy18",
+        "XP": 0,
+        "currentlyWorkingOn": 49
+    },
+    {
+        "ID": 8,
+        "Name": "Kadiatou Barry (Mac)",
+        "Email": "kbarry@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/kadylius/kadi-barry",
+        "CodingNickname": "the connoisseur",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/C4E03AQELUNIRkpL2mQ/profile-displayphoto-shrink_400_400/0/1650085102341?e=1720656000&v=beta&t=mmwdGPGrsMGSixWu1_5aNj-9Cefa_n3CuCY3XSLXIr4",
+        "XP": 0,
+        "currentlyWorkingOn": 39
+    },
+    {
+        "ID": 9,
+        "Name": "Kayla Hanifen (Mac)",
+        "Email": "khanifen@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/KaylaEHanifen",
+        "CodingNickname": "Agent K",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D5603AQFHQ46apuKgbg/profile-displayphoto-shrink_400_400/0/1690255441190?e=1720656000&v=beta&t=vfjPfEJcHiS51C1tlT9DOG76R5n_PPJHoKirGzlHEuU",
+        "XP": 0,
+        "currentlyWorkingOn": 36
+    },
+    {
+        "ID": 10,
+        "Name": "Leslie Alvarado (Mac)",
+        "Email": "lalvarado@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/LeslieAlvarado1",
+        "CodingNickname": "The ScriptSiren",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D5603AQHD4XcsiS9_7Q/profile-displayphoto-shrink_400_400/0/1714775792411?e=1720656000&v=beta&t=ti7w2I4510-NOGoVQqClRjXZ-XGsu673mSn6JDWZtRY",
+        "XP": 0,
+        "currentlyWorkingOn": 48
+    },
+    {
+        "ID": 11,
+        "Name": "Maximo Mayo",
+        "Email": "mmayo@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/MaximoMayo",
+        "CodingNickname": "reference error",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D5635AQGJEoOx7l2_wg/profile-framedphoto-shrink_400_400/0/1668459290344?e=1717758000&v=beta&t=QNYdhQR3JGI5E9wO_5NNojRCpuKU2hzjaiK1qXPLecI",
+        "XP": 0,
+        "currentlyWorkingOn": 50
+    },
+    {
+        "ID": 12,
+        "Name": "Moncerrat Lua Salas",
+        "Email": "mluasalas@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/MoncerratLuaSalas",
+        "CodingNickname": "Monce",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://fakeimg.pl/600x400/fc8dd7/fad2e8?text=monce+so+swag",
+        "XP": 0,
+        "currentlyWorkingOn": 45
+    },
+    {
+        "ID": 13,
+        "Name": "Niran Abdulqader",
+        "Email": "nabdulqader@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/NiranAbdulqader",
+        "CodingNickname": "Techie Diva",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/C5603AQHCS9pI_VLNZQ/profile-displayphoto-shrink_800_800/0/1634626091348?e=1720656000&v=beta&t=GgD0cMSHbOwXtLXvKnhmQFg57BFgomFovZXPY28b14Q",
+        "XP": 0,
+        "currentlyWorkingOn": 53
+    },
+    {
+        "ID": 14,
+        "Name": "Rene Banuelos",
+        "Email": "rbanuelos@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/ReneBA1999",
+        "CodingNickname": "Cyber Samurai",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://fakeimg.pl/400x400/120707/40b2eb?text=Rene+B",
+        "XP": 5,
+        "currentlyWorkingOn": 30
+    },
+    {
+        "ID": 15,
+        "Name": "Uriel Delgado",
+        "Email": "udelgado@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/UrielDelgado",
+        "CodingNickname": "YaBoiUri",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://fakeimg.pl/600x400/2ac458/c942c7?text=This+is+Uriel's+image.",
+        "XP": 0,
+        "currentlyWorkingOn": 31
+    },
+    {
+        "ID": 16,
+        "Name": "Victor Castaneda",
+        "Email": "vcastaneda@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/Victor-Castaneda",
+        "CodingNickname": "vic.exe",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/C4E03AQEzzEbWxGnohQ/profile-displayphoto-shrink_200_200/0/1559835011459?e=1721260800&v=beta&t=ERaw8MclKPqCGFt9YCF_jk7iuPpIgS9gZ5vP8Nypz3A",
+        "XP": 0,
+        "currentlyWorkingOn": 33
+    },
+    {
+        "ID": 17,
+        "Name": "Remsey Mailjard",
+        "Email": "remsey@skills4-it.nl",
+        "GitHubProfile": "https://github.com/RemseyMailjard",
+        "CodingNickname": "Mailjard the Magnificent",
+        "Groupname": "IT Solutions Group",
+        "imageURL": "https://www.remsey.nl/assets/images/remsey-mailjard.jpg",
+        "XP": 0,
+        "currentlyWorkingOn": 0
+    },
+    {
+        "ID": 18,
+        "Name": "Daniel Solar",
+        "Email": "dsolar@appdev.yearup.org",
+        "GitHubProfile": "https://github.com/1DanielSolar",
+        "CodingNickname": "Not Defined",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://media.licdn.com/dms/image/D4D03AQHBE8cnwrNeZQ/profile-displayphoto-shrink_400_400/0/1715104324245?e=1720656000&v=beta&t=DIUF_40UXczsxkRaZB3Azjwsbg2TQgNuwk8da8-g9ek",
+        "XP": 0,
+        "currentlyWorkingOn": 33
+    },
+    {
+        "ID": 19,
+        "Name": "Andrea Ceballos",
+        "Email": "iraryc@gmail.com",
+        "GitHubProfile": "https://github.com/iraryc",
+        "CodingNickname": "Kung Fu Koder",
+        "Groupname": "App Dev Team",
+        "imageURL": "https://avatars.githubusercontent.com/u/111704084?v=4",
+        "XP": 10,
+        "currentlyWorkingOn": 39
+    }
+]
