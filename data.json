@@ -7,7 +7,7 @@
         "CodingNickname": "Any Key",
         "Groupname": "App Dev Team",
         "imageURL": "https://media.licdn.com/dms/image/D4E03AQHsvMOXofd4eg/profile-displayphoto-shrink_400_400/0/1701278215042?e=1722470400&v=beta&t=KVN23alt6xjixB3xlCNum6j26X4VRMmvCh6FdlsAFtM",
-        "XP": 0,
+        "XP": 80,
         "currentlyWorkingOn": 81
     },
     {
@@ -18,7 +18,7 @@
         "CodingNickname": "luffy",
         "Groupname": "App Dev Team",
         "imageURL": "https://media.licdn.com/dms/image/C4E03AQEoG-gPExm-cw/profile-displayphoto-shrink_400_400/0/1636537401196?e=1722470400&v=beta&t=oWyYB2HE-iAtcSCylDAeUmEvZY0nEeqGI6Na1fQT6d8",
-        "XP": 0,
+        "XP": 80,
         "currentlyWorkingOn": 44
     },
     {
@@ -29,7 +29,7 @@
         "CodingNickname": "The Woodchuck",
         "Groupname": "App Dev Team",
         "imageURL": "img/Avatar_Student_Male.jpg",
-        "XP": 0,
+        "XP": 80,
         "currentlyWorkingOn": 32
     },
     {
@@ -40,8 +40,8 @@
         "CodingNickname": "CodeLupe",
         "Groupname": "App Dev Team",
         "imageURL": "https://fakeimg.pl/600x400/7b37c4/fff700?text=Lupe+Argumedo&font=bebas",
-        "XP": 0,
-        "currentlyWorkingOn": 39
+        "XP": 79,
+        "currentlyWorkingOn": 79
     },
     {
         "ID": 5,
@@ -51,7 +51,7 @@
         "CodingNickname": "JSJ (JavaScript Jaranesca)",
         "Groupname": "App Dev Team",
         "imageURL": "https://fakeimg.pl/600x400/ffe44c/db29db?text=Jaranesca+Braker",
-        "XP": 0,
+        "XP": 80,
         "currentlyWorkingOn": 37
     },
     {
@@ -62,8 +62,8 @@
         "CodingNickname": "JJ",
         "Groupname": "App Dev Team",
         "imageURL": "https://media.licdn.com/dms/image/D4E03AQFN9jSMTdbzDA/profile-displayphoto-shrink_400_400/0/1715103915979?e=1720656000&v=beta&t=5QnIvkUZJ9RX9KlBJbEPdKgv95eNmlrGAiDgvYd9k8A",
-        "XP": 30,
-        "currentlyWorkingOn": 31
+        "XP": 80,
+        "currentlyWorkingOn": 0
     },
     {
         "ID": 7,
@@ -85,7 +85,7 @@
         "Groupname": "App Dev Team",
         "imageURL": "https://media.licdn.com/dms/image/C4E03AQELUNIRkpL2mQ/profile-displayphoto-shrink_400_400/0/1650085102341?e=1720656000&v=beta&t=mmwdGPGrsMGSixWu1_5aNj-9Cefa_n3CuCY3XSLXIr4",
         "XP": 0,
-        "currentlyWorkingOn": 39
+        "currentlyWorkingOn": 78
     },
     {
         "ID": 9,
@@ -96,7 +96,7 @@
         "Groupname": "App Dev Team",
         "imageURL": "https://media.licdn.com/dms/image/D5603AQFHQ46apuKgbg/profile-displayphoto-shrink_400_400/0/1690255441190?e=1720656000&v=beta&t=vfjPfEJcHiS51C1tlT9DOG76R5n_PPJHoKirGzlHEuU",
         "XP": 0,
-        "currentlyWorkingOn": 36
+        "currentlyWorkingOn": 76
     },
     {
         "ID": 10,
@@ -129,7 +129,7 @@
         "Groupname": "App Dev Team",
         "imageURL": "https://fakeimg.pl/600x400/fc8dd7/fad2e8?text=monce+so+swag",
         "XP": 0,
-        "currentlyWorkingOn": 45
+        "currentlyWorkingOn": 79
     },
     {
         "ID": 13,
