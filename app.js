@@ -1,3 +1,10 @@
+const express = require("express");
+const app = express();
+const port = process.env.PORT || 3000;
+
+// Middleware to parse JSON bodies
+app.use(express.json());
+
 // Import the JSON data
 const jsonData = require("./data.json");
 
@@ -22,7 +29,7 @@ app.get("/", (req, res) => {
   // Generate HTML list of endpoints
   let endpointsHtml = "<ul>";
   for (const [description, url] of Object.entries(apiEndpoints)) {
-    endpointsHtml += `<li>${description}: <a href="${url}">${url}</a></li>`;
+    endpointsHtml += `<li>${description}: <a href="http://${url}">${url}</a></li>`;
   }
   endpointsHtml += "</ul>";
 
@@ -31,7 +38,7 @@ app.get("/", (req, res) => {
 
   // Send the formatted message as a response
   res.send(fullMessage);
-});s
+});
 
 app.get("/api/users", (req, res) => {
   res.json(jsonData);
